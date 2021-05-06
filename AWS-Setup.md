@@ -18,7 +18,7 @@
 ## Create Ubuntu Server
 1. Login into AWS console. https://aws.amazon.com
 	- ->Click on 'Sign in to the Console" button at top right. 
-		- (If The top right button says 'Crate an AWS Account') Click on the dropdown 'My Account' and select 'AWS Managment Console'
+		- (If The top right button says 'Create an AWS Account') Click on the dropdown 'My Account' and select 'AWS Managment Console'
 2. Access the EC2 console.
 	- A. At the top bar search for 'EC2'. It should be the first item on the list.
 	- B. Visually look for 'EC2' in the 'All Services' section. 
@@ -29,7 +29,7 @@
 4. Launch a new Instance
 	1. Click on the 'Launch instances' button.
 	2. Select Instances
-		- In the earch bar type "Ubuntu" and press enter.
+		- In the search bar type "Ubuntu" and press enter.
 		> For most other distrubutions of linux (Amazon Linux, SUSE etc) this guid would work.
 	3.  The top one should be 'Ubuntu Server 20.04 LTS' make sure the 64-bit (x86) radio button is slected and press select.
 	4. Choose instance size.
